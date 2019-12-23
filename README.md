@@ -1,11 +1,9 @@
-# lecture0
-Git
-<!DOCTYPE html>
 <html>
   <head>
       <title>My Webpage!</title>
   </head>
   <body>
-      <img src="cat.jpg"> Hello, coding community! All are welcome!
+    Hello, coding community! Welcome to my profile. All are welcome!
+    <img src="cat.jpg">
   </body>
 </html>
